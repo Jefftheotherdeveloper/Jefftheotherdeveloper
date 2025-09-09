@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jefftheotherdeveloper
 - 👀 I’m interested in comutper science
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently in college
 - 📫 How to reach me through gmail: jcruzjeff17@gmail.com
-- ⚡ Fun fact: Working on a school progect to find info on colleges!
+- ⚡ Fun fact: Working on small projects
 
 <!---
 Jefftheotherdeveloper/Jefftheotherdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
