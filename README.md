@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, finance, and data science
 - 🌱 I’m currently studying in college
 - 📫 You can reach me through my email "jcruzjeff17@gmail.com" or my
--     Linkedin "https://www.linkedin.com/in/jeffcrvz/" too!
+-     Linkedin https://www.linkedin.com/in/jeffcrvz/ too!
 - ⚡ Fun fact: I'm currently working on useful real world projects
   
 <!---
