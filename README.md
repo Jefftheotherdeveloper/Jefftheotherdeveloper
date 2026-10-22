@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jefftheotherdeveloper
 - 👀 I’m interested in computer science, finance, and data science
-- 🌱 I’m currently in college
+- 🌱 I’m currently studying in college
 - 📫 You can reach me through my email "jcruzjeff17@gmail.com" or my
 - Linkedin "https://www.linkedin.com/in/jeffcrvz/"
 - ⚡ Fun fact: I'm currently working on useful real world projects
